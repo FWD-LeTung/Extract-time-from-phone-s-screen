@@ -1,6 +1,6 @@
 import cv2
 import os
-import sys
+
 import argparse
 
 def extract_from_video(input_path, output_path):
